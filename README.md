@@ -1,7 +1,7 @@
 ### Hi there, I'm Jay 👋
 
-I am 23 and I am based in Montreal, QC in Canada, but origianlly from France.
-I am bilingual - Native in French and fluent in English.
+I am 23 and I am based in Montreal, QC in Canada, but originally from France.
+I am bilingual - native in French and fluent in English.
 
 I am an autodidact. I like building and learning new things by starting, doing and fixing.
 
