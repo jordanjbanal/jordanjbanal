@@ -1,4 +1,4 @@
-### Hi there, I'm Jay 👋
+### Hi there, I'm Jay 🧑🏻‍💻
 
 I am 23 and I am based in Montreal, QC in Canada, but originally from France.
 I am bilingual - native in French and fluent in English.
