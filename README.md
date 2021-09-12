@@ -7,9 +7,9 @@ I am an autodidact. I like building and learning new things by starting, doing a
 
 <b>I have proudly graduated from the prestigious Data Science Bootcamp at Concordia University where I acquired the necessary knowledge and skills to become successful as a Data Scientist. I am actively seeking a data science position in Canada.
 
-I also completed a Bachelor's Degree in Commerce majoring in Business Technology Management from the John Molson School of Business during which I took some programming introduction courses leading me to exploit my full potential by choosing the Bootcamp route.</b>
+I also completed a Bachelor's Degree in Commerce majoring in Business Technology Management from the John Molson School of Business at Concordia University during which I took some introductory programming courses leading me to exploit my full potential by choosing the Bootcamp route.</b>
 
-I aim to develop beautiful-made and useful applications for end users to gain efficiency within their lives, be it personally or professionally.
+I aim to develop useful applications for end users to gain efficiency within their lives, be it personally or professionally.
 I am interested in contributing to helping projects other than my own. Hit me up anytime.
 <!--
 **jordanjbanal/jordanjbanal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
